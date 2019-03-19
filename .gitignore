@@ -24,3 +24,9 @@ vendor
 /node_modules/
 node_modules/
 bower_components/
+
+.DS_Store
+.DS_Store/
+.ds_store/
+/.DS_Store/
+.DS_Store?
