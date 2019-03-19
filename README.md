@@ -1,6 +1,6 @@
 # Micro Frontends #
 
-## A micro frontends project consist of react, vue.js, angular and angular-js ##
+### A micro frontends project consist of react, vue.js, angular and angular-js ###
 
 ##### This project uses lerna to manage multiple packages
 
