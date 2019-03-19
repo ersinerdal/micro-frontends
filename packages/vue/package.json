@@ -1,13 +1,14 @@
 {
-  "name": "project",
+  "name": "vue",
   "description": "A Vue.js project",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "webpack-dev-server --mode development --port 3003 --open",
+    "start": "webpack-dev-server --mode development --port 3003",
     "build": "webpack --mode production"
   },
   "dependencies": {
+    "angular": "^0.0.0",
     "clean-webpack-plugin": "^2.0.0",
     "copy-webpack-plugin": "^5.0.0",
     "vue": "^2.2.1"

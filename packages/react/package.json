@@ -1,5 +1,5 @@
 {
-  "name": "main",
+  "name": "react",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.3.3",
+    "angular": "^0.0.0",
     "babel-loader": "^8.0.5",
     "clean-webpack-plugin": "^2.0.0",
     "copy-webpack-plugin": "^5.0.0",

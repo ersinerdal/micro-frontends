@@ -4,13 +4,14 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --mode development --port 3000",
+    "start": "webpack-dev-server --mode development --port 3000 --open",
     "build": "webpack --mode production"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.3.3",
+    "angular": "^0.0.0",
     "babel-loader": "^8.0.5",
     "clean-webpack-plugin": "^2.0.0",
     "copy-webpack-plugin": "^5.0.0",

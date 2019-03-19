@@ -36,8 +36,8 @@ const Home = () => (
     <div>
         <h2 className="main-page-title">Home</h2>
         <div className="main-content">
-            <angular-element></angular-element>
-            <vue-element></vue-element>
+            {/*<angular-element></angular-element>*/}
+            {/*<vue-element></vue-element>*/}
         </div>
     </div>
 );
