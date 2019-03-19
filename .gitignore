@@ -1,5 +1,6 @@
 /.vscode/
 /.idea/
+.idea/
 .DS_Store
 
 /frontend/node_modules/
@@ -19,3 +20,6 @@ data.sql
 vendor
 
 /scripts/node_modules/
+
+/node_modules/
+node_modules/
