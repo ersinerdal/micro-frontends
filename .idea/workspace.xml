@@ -25,7 +25,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="23" />
+    <option name="x" value="514" />
+    <option name="y" value="27" />
     <option name="width" value="1920" />
     <option name="height" value="1177" />
   </component>
@@ -40,7 +41,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="GO_FMT" value="true" />
+    <property name="GO_FMT" value="false" />
     <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
