@@ -2,7 +2,6 @@
   "name": "project",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "Pedro Henrique Mognon <phm1993@gmail.com>",
   "private": true,
   "scripts": {
     "start": "webpack-dev-server --mode development --port 3003 --open",
