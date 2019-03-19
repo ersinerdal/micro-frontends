@@ -24,10 +24,6 @@ cd packages/angularjs
 bower install
 ```
 
-```
-bower install
-```
-
 To run all the packages
 
 ```
