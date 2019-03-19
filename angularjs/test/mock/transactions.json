@@ -1,0 +1,80 @@
+{
+  "data": {
+    "transactionList": [
+      {
+        "transactionType": "Advance",
+        "transactionAmount": 100,
+        "isTransactionAmountDebit": true,
+        "cummilativeAmount": 100,
+        "userId": "1",
+        "transactionDate": "2015-09-01T00:00:00"
+      },
+      {
+        "transactionType": "Interest",
+        "transactionAmount": 1,
+        "isTransactionAmountDebit": true,
+        "cummilativeAmount": 101,
+        "userId": "1",
+        "transactionDate": "2015-09-02T00:00:00"
+      },
+      {
+        "transactionType": "Penalty",
+        "transactionAmount": 15,
+        "isTransactionAmountDebit": true,
+        "cummilativeAmount": 116,
+        "userId": "1",
+        "transactionDate": "2015-09-02T00:00:00"
+      },
+      {
+        "transactionType": "Interest",
+        "transactionAmount": 1,
+        "isTransactionAmountDebit": true,
+        "cummilativeAmount": 117,
+        "userId": "1",
+        "transactionDate": "2015-09-03T00:00:00"
+      },
+      {
+        "transactionType": "Penalty",
+        "transactionAmount": 15,
+        "isTransactionAmountDebit": true,
+        "cummilativeAmount": 132,
+        "userId": "1",
+        "transactionDate": "2015-09-03T00:00:00"
+      },
+      {
+        "transactionType": "Interest",
+        "transactionAmount": 1,
+        "isTransactionAmountDebit": true,
+        "cummilativeAmount": 133,
+        "userId": "1",
+        "transactionDate": "2015-09-04T00:00:00"
+      },
+      {
+        "transactionType": "Penalty",
+        "transactionAmount": 15,
+        "isTransactionAmountDebit": true,
+        "cummilativeAmount": 148,
+        "userId": "1",
+        "transactionDate": "2015-09-04T00:00:00"
+      },
+      {
+        "transactionType": "Advance",
+        "transactionAmount": 100,
+        "isTransactionAmountDebit": false,
+        "cummilativeAmount": 248,
+        "userId": "1",
+        "transactionDate": "2015-09-09T00:00:00"
+      },
+      {
+        "transactionType": "Advance",
+        "transactionAmount": 100,
+        "isTransactionAmountDebit": false,
+        "cummilativeAmount": 348,
+        "userId": "1",
+        "transactionDate": "2015-09-09T00:00:00"
+      }
+    ],
+    "isRepayButtonActive": true
+  },
+  "errors": []
+}

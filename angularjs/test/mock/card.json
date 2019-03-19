@@ -1,0 +1,17 @@
+{
+  "data": {
+    "houseNumber": null,
+    "town": null,
+    "street": null,
+    "postCode": null,
+    "debitCardId": 0,
+    "addressCheck": "FULL_MATCH",
+    "postCodeCheck": "FULL_MATCH",
+    "cv2Check": "MATCHED",
+    "expirationString": "**/15",
+    "customerId": 1,
+    "cardNumber": "************5159",
+    "issuingBank": "Global Bank"
+  },
+  "errors": []
+}

@@ -1,0 +1,44 @@
+body{
+  margin:0;
+  padding: 0;
+  font-family: arial
+}
+
+a{
+  text-decoration: none;
+}
+
+#main-nav{
+  display: block;
+  width: 100%;
+  height:60px;
+  margin: 0;
+  padding: 0;
+  background-color: #111;
+  list-style-type: none;
+}
+#main-nav li{
+  float: left;
+}
+#main-nav li a{
+  display: inline-block;
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+  margin-left: 1px;
+}
+#main-nav li a:hover{
+  background-color: #444;
+  text-decoration: none;
+}
+
+.main-page-title{
+  margin: 0;
+  padding: 10px;
+  background-color: #eee;
+  border-bottom: 1px solid #e1e1e1;
+}
+
+.main-content{
+  padding: 20px;
+}

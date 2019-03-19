@@ -1,0 +1,10 @@
+{
+  "data": {
+    "CustomerId": 2,
+    "Token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjaWQiOjIsImV4cCI6MTQ0MDcyOTE3OSwiaWF0IjoxNDQwNjg1OTc5LCJ2ZXIiOjF9.aNa4EczcKUQAqC0IqqTb5WrBxX2XkP4_IS13btjMTgE",
+    "Expiry": 1440729179,
+    "IssuedAt": 1440685979,
+    "Version": 1
+  },
+  "errors": []
+}

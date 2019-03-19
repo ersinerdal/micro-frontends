@@ -1,0 +1,15 @@
+{
+  "data": {
+    "advanceId": 1,
+    "advanceCode": "A1",
+    "customerId": 1,
+    "customerCode": "C1",
+    "amount": 100,
+    "term": 20,
+    "debt": 0,
+    "requestedTime": "2015-09-01T00:00:00",
+    "dueDay": "0001-01-01T00:00:00",
+    "advanceDay": 0
+  },
+  "errors": []
+}

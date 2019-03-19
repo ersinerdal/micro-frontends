@@ -1,0 +1,60 @@
+{
+  "data": {
+    "startElement": 0,
+    "numElements": 5,
+    "totalElements": 5,
+    "results": [
+      {
+        "userId": 5,
+        "userCode": "U5",
+        "fullname": "ðçöüýþ ÐÇÖÜýÞ",
+        "username": "evren@mykredit.com",
+        "status": "Active",
+        "role": "Admin",
+        "createDate": "2015-09-10T17:53:51",
+        "datestamp": "2015-09-11T05:58:38"
+      },
+      {
+        "userId": 4,
+        "userCode": "U4",
+        "fullname": "ali veliðçöüýþ",
+        "username": "evren.guden@mykredit.com",
+        "status": "Active",
+        "role": "Admin",
+        "createDate": "2015-09-10T17:39:35",
+        "datestamp": "2015-09-11T05:55:55"
+      },
+      {
+        "userId": 3,
+        "userCode": "U3",
+        "fullname": "Tarik Bold",
+        "username": "tarik.korkmaz@mykredit.com",
+        "status": "Active",
+        "role": "Admin",
+        "createDate": "2015-09-10T17:35:16",
+        "datestamp": "2015-09-10T17:35:16"
+      },
+      {
+        "userId": 2,
+        "userCode": "U2",
+        "fullname": "Tarik Korkmaz",
+        "username": "tarik@mykredit.com",
+        "status": "Active",
+        "role": "Admin",
+        "createDate": "2015-09-10T17:12:18",
+        "datestamp": "2015-09-10T17:12:18"
+      },
+      {
+        "userId": 1,
+        "userCode": "U1",
+        "fullname": "Ilgiz Seber",
+        "username": "ilgiz.seber@mykredit.com",
+        "status": "Active",
+        "role": "Admin",
+        "createDate": "2015-09-08T13:26:49",
+        "datestamp": "2015-09-08T13:26:49"
+      }
+    ]
+  },
+  "errors": []
+}

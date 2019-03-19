@@ -1,0 +1,60 @@
+{
+  "data": {
+    "startElement": 0,
+    "numElements": 5,
+    "totalElements": 5,
+    "advanceList": [
+      {
+        "customerId": 925,
+        "loanId": 7,
+        "loanCode": "A7",
+        "amount": 1.00,
+        "debt": 0.0,
+        "day": 1,
+        "status": "Provisioned",
+        "datestamp": "2015-08-01T00:00:00"
+      },
+      {
+        "customerId": 924,
+        "loanId": 6,
+        "loanCode": "A6",
+        "amount": 1.00,
+        "debt": 0.0,
+        "day": 1,
+        "status": "Cancelled",
+        "datestamp": "2015-08-01T00:00:00"
+      },
+      {
+        "customerId": 923,
+        "loanId": 5,
+        "loanCode": "A5",
+        "amount": 1.00,
+        "debt": 0.0,
+        "day": 1,
+        "status": "Requested",
+        "datestamp": "2015-08-01T00:00:00"
+      },
+      {
+        "customerId": 922,
+        "loanId": 4,
+        "loanCode": "A4",
+        "amount": 1.00,
+        "debt": 0.0,
+        "day": 1,
+        "status": "Repaid",
+        "datestamp": "2015-08-01T00:00:00"
+      },
+      {
+        "customerId": 921,
+        "loanId": 1,
+        "loanCode": "A1",
+        "amount": 1.00,
+        "debt": 1.00,
+        "day": 1,
+        "status": "Issued",
+        "datestamp": "2015-08-01T00:00:00"
+      }
+    ]
+  },
+  "errors": []
+}

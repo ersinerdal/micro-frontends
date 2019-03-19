@@ -1,0 +1,32 @@
+body{
+    font-family: arial
+}
+
+#vue-content{
+    padding: 20px 0;
+}
+
+#vue-menu ul{
+    display: inline-block;
+    height:40px;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+#vue-menu li{
+    float: left;
+}
+#vue-menu li a{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #42b883;
+    color: #fff;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+#vue-menu li a:hover, #vue-menu li a.router-link-exact-active{
+    background-color: #35495e;
+}
+#vue-menu li a:hover{
+    text-decoration: none;
+}
