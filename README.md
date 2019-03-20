@@ -17,8 +17,7 @@ To install all the dependencies
 lerna bootstrap
 ```
 
-Angularjs project also requires bower components
-
+Angularjs project requires bower components too
 ```
 cd packages/angularjs
 bower install
